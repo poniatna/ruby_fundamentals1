@@ -1,7 +1,8 @@
-	a = 55
-	b = 20
-	c = a % b 
-puts "The good tip on a 55 dollar meal is #{a % b} dollars,\n so one would need to pay #{ a + c} dollars in total."
+	a = 55.00
+	b = a / 100 * 30
+	d = a + b
+	
+puts "The good tip on a 55 dollar meal is #{b} dollars,\n so one would need to pay #{d} dollars in total."
 
 
 
