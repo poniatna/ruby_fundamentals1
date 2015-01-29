@@ -2,8 +2,7 @@
 #For unknown to humanity reason, and by "humanity" I mean me,
 # "elsif" statmentent did not work and for that and couple more reasons is lenghty, repetetive, etc
 #However I am strong beliver in working code having an enormous adventage 
-#over even the most beautiful, but not working code.
-#
+#over even the most beautiful, but not working code, therefor it will have to do for now.# 
 
 
 one_to_hundred = (0..99)
